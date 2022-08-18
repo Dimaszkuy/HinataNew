@@ -64,8 +64,8 @@ global.apikeys = keyalpha
 /*Number*/
 global.nomorbot = '6282142110606'
 global.nomorown = '6281259929402'
-global.namebot = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
-global.nameown = 'Oᴡɴᴇʀ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
+global.namebot = 'Sad Bot'
+global.nameown = 'Dimasskuy'
 
 /*Watermark*/
 global.wm = '                「 ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ あ⁩ 」'
@@ -367,7 +367,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 /*Link*/
 global.sig = 'https://instagram.com/wudysoft.2'
 global.sgh = 'https://github.com/AyGemuy'
-global.sgc = 'https://chat.whatsapp.com/I2cagI7uWN59oxMomPQvfM'
+global.sgc = 'https://chat.whatsapp.com/GoXqlT5mIagJv8F6QGCPXI'
 global.sdc = 'https://github.com/AyGemuy'
 global.snh = 'https://github.com/AyGemuy'
 
@@ -426,16 +426,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/I2cagI7uWN59oxMomPQvfM'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/wudysoft'
-global.dana = ['0887435373103']
-global.pulsa = ['082195322106']
+global.dana = ['081259929402']
+global.pulsa = ['081259929402']
 global.trakteer = 'https://trakteer.id/wudysoft'
 global.paypal = 'wudysoft@gmail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
+global.gopay = '081259929402'
+global.pdana = '081259929402'
+global.povo = '081259929402'
+global.pgopay = '081259929402'
+global.ppulsa = '081259929402'
+global.ppulsa2 = '081259929402'
 global.psaweria = 'https://saweria.com/Wudysoft'
 
 /*Emoji*/
